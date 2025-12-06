@@ -1,9 +1,9 @@
-Name, Age ,City ,City
-John ,23 ,New York,Kathmandu
-Bob,25,London,Delhi
-Puskas,26, Miami,Bhaktapur
+Name of candidate, Age ,primary-City ,secondary-City
+John   ,23 ,New York,Kathmandu
+Bobby,25,London,Delhi
+   Puskas,26,    Miami,Bhaktapur
 , , ,
 Alice, 30, London,Lalitpur
 , , ,
-Bob ,25, London,Delhi
+   Bobby ,25, London,Delhi
 Alice, 30, London,Lalitpur

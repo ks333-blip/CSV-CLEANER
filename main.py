@@ -1,12 +1,8 @@
-import sys
 from src.cleaner import clean_csv
+import sys
 
-if __name__ == "__main__":
-    if len(sys.argv) < 2:
-        print("Usage: python main.py <input_file>")
-        sys.exit(1)
+input_path = sys.argv[1]
+output_path = "data/cleaned.csv"
 
-    input_file = sys.argv[1]
-
-    if clean_csv(input_file):
-        print("CSV cleaned successfully!")
+clean_csv(input_path, output_path)
+print("CSV cleaned successfully!")
