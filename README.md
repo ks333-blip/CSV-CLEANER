@@ -24,14 +24,6 @@ data/cleaned_output.csv
 
 ---
 
-## Project Structure
-csv-cleaner/
-│
-├── data/
-├── src/
-├── main.py
-└── README.md
-
 ---
 
 ## Why This Project?
